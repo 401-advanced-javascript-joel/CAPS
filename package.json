@@ -1,0 +1,23 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": " Code Academy Parcel Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage --detectOpenHandles",
+    "test-watch": "jest --watchAll --verbose --coverage --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-joel/CAPS.git"
+  },
+  "author": "Joel Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-joel/CAPS/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-joel/CAPS#readme"
+}
