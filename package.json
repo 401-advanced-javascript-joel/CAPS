@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-joel/CAPS/issues"
   },
-  "homepage": "https://github.com/401-advanced-javascript-joel/CAPS#readme"
+  "homepage": "https://github.com/401-advanced-javascript-joel/CAPS#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "faker": "^4.1.0",
+    "jest": "^26.0.1"
+  }
 }
