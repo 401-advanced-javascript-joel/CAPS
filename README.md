@@ -12,8 +12,8 @@ Your application should automatically generate random orders every 5 seconds. Th
 
 ### Links and Resources
 
-- [PR Lab 16](https://github.com/401-advanced-javascript-joel/authentication/pull/1)
-- [CI/CD Lab 16](https://github.com/401-advanced-javascript-joel/authentication/pull/1/checks)
+- [PR Lab 16](https://github.com/401-advanced-javascript-joel/CAPS/pull/1)
+- [CI/CD Lab 16](https://github.com/401-advanced-javascript-joel/CAPS/pull/1/checks)
 
 ### Setup
 
@@ -29,4 +29,4 @@ Your application should automatically generate random orders every 5 seconds. Th
 
 ### UML
 
-![UML 16](#)
+![UML 16](https://raw.githubusercontent.com/401-advanced-javascript-joel/CAPS/lab-16/assets/lab-16-uml.jpg)
